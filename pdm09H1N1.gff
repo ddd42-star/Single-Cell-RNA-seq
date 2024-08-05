@@ -1,0 +1,39 @@
+##gff-version 3
+##source-version geneious 2020.2.2
+##sequence-region	HA	1	1775
+HA	Genbank	CDS	33	1733	.	+	0	Name=ACR10223.1;ID=cds-ACR10223.1;Dbxref=NCBI_GP:ACR10223.1
+HA	Genbank	gene	33	1733	.	+	.	Name=HA;ID=gene-HA
+HA	Genbank	region	1	1775	.	+	.	Name=4;ID=GQ166213.2:1..1725;Dbxref=taxon:645549
+##sequence-region	M	1	1027
+M	Genbank	gene	26	1007	.	+	.	Name=M2;ID=gene-M2
+M	Genbank	region	1	1027	.	+	.	Name=7;ID=GQ166219.2:1..987;Dbxref=taxon:645549
+M	Genbank	CDS	26	51	.	+	0	Name=ACR10231.2;ID=cds-ACR10231.2;Dbxref=NCBI_GP:ACR10231.2;Note=Membrane protein 2
+M	Genbank	CDS	740	1007	.	+	0	Name=ACR10231.2;ID=cds-ACR10231.2;Dbxref=NCBI_GP:ACR10231.2;Note=Membrane protein 2
+M	Genbank	CDS	26	784	.	+	0	Name=ACR10230.1;ID=cds-ACR10230.1;Dbxref=NCBI_GP:ACR10230.1
+##sequence-region	NA	1	1458
+NA	Genbank	CDS	21	1430	.	+	0	Name=ACR10227.1;ID=cds-ACR10227.1;Dbxref=NCBI_GP:ACR10227.1
+NA	Genbank	gene	21	1430	.	+	.	Name=NA;ID=gene-NA
+NA	Genbank	region	1	1458	.	+	.	Name=6;ID=GQ166217.2:1..1457;Dbxref=taxon:645549
+##sequence-region	NP	1	1565
+NP	Genbank	CDS	46	1542	.	+	0	Name=ACR10225.1;ID=cds-ACR10225.1;Dbxref=NCBI_GP:ACR10225.1
+NP	Genbank	gene	46	1542	.	+	.	Name=NP;ID=gene-NP
+NP	Genbank	region	1	1565	.	+	.	Name=5;ID=GQ166215.1:1..1497;Dbxref=taxon:645549
+##sequence-region	NS1	1	890
+NS1	Genbank	gene	27	864	.	+	.	Name=NEP;ID=gene-NEP
+NS1	Genbank	region	1	890	.	+	.	Name=8;ID=GQ166221.2:1..870;Dbxref=taxon:645549
+NS1	Genbank	CDS	27	56	.	+	0	Name=ACR10235.1;ID=cds-ACR10235.1;Dbxref=NCBI_GP:ACR10235.1;Note=nonstructural protein 2
+NS1	Genbank	CDS	529	864	.	+	0	Name=ACR10235.1;ID=cds-ACR10235.1;Dbxref=NCBI_GP:ACR10235.1;Note=nonstructural protein 2
+NS1	Genbank	CDS	27	686	.	+	0	Name=ACR10234.1;ID=cds-ACR10234.1;Dbxref=NCBI_GP:ACR10234.1
+##sequence-region	PA	1	2233
+PA	Genbank	CDS	25	2175	.	+	0	Name=ACR10221.1;ID=cds-ACR10221.1;Dbxref=NCBI_GP:ACR10221.1
+PA	Genbank	gene	25	2175	.	+	.	Name=PA;ID=gene-PA
+PA	Genbank	region	1	2233	.	+	.	Name=3;ID=GQ166211.1:1..2192;Dbxref=taxon:645549
+##sequence-region	PB1	1	2341
+PB1	Genbank	sequence_feature	119	391	.	+	.	ID=id-PB1-F2;Note=nonfunctional PB1-F2 protein due to mutation
+PB1	Genbank	CDS	25	2298	.	+	0	Name=ACR10219.1;ID=cds-ACR10219.1;Dbxref=NCBI_GP:ACR10219.1
+PB1	Genbank	region	25	2298	.	+	.	Name=2;ID=GQ166209.1:1..2274;Dbxref=taxon:645549
+PB1	Genbank	gene	25	2298	.	+	.	Name=PB1;ID=gene-PB1
+##sequence-region	PB2	1	2341
+PB2	Genbank	CDS	28	2307	.	+	0	Name=ACR10217.1;ID=cds-ACR10217.1;Dbxref=NCBI_GP:ACR10217.1
+PB2	Genbank	gene	28	2307	.	+	.	Name=PB2;ID=gene-PB2
+PB2	Genbank	region	1	2341	.	+	.	Name=1;ID=GQ166207.1:1..2332;Dbxref=taxon:645549
