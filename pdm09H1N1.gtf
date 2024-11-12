@@ -1,0 +1,32 @@
+##gff-version 2
+##source-version rtracklayer 1.44.4
+##date 2020-08-24
+HA	Genbank	CDS	33	1733	.	+	0	gene_id "HA-gene"; transcript_id "HA-gene"; gene_biotype "protein_coding"; gene_name "HA"; transcript_name "HA";
+HA	Genbank	gene	33	1733	.	+	.	gene_id "HA-gene"; transcript_id "HA-gene"; gene_biotype "protein_coding"; gene_name "HA"; transcript_name "HA";
+HA	Genbank	exon	1	1775	.	+	.	gene_id "HA-gene"; transcript_id "HA-gene"; gene_biotype "protein_coding"; gene_name "HA"; transcript_name "HA"; exon_number 1;
+M	Genbank	gene	26	1007	.	+	.	gene_id "M2-gene"; transcript_id "M2-gene"; gene_biotype "protein_coding"; gene_name "M"; transcript_name "M";
+M	Genbank	exon	1	1027	.	+	.	gene_id "M2-gene"; transcript_id "M2-gene"; gene_biotype "protein_coding"; gene_name "M"; transcript_name "M"; exon_number 1;
+M	Genbank	CDS	26	51	.	+	0	gene_id "M2-gene"; transcript_id "M2-gene"; gene_biotype "protein_coding"; gene_name "M"; transcript_name "M";
+M	Genbank	CDS	740	1007	.	+	0	gene_id "M2-gene"; transcript_id "M2-gene"; gene_biotype "protein_coding"; gene_name "M"; transcript_name "M";
+M	Genbank	CDS	26	784	.	+	0	gene_id "M1-gene"; transcript_id "M1-gene"; gene_biotype "protein_coding"; gene_name "M"; transcript_name "M";
+NA	Genbank	CDS	21	1430	.	+	0	gene_id "NA-gene"; transcript_id "NA-gene"; gene_biotype "protein_coding"; gene_name "NA"; transcript_name "NA";
+NA	Genbank	gene	21	1430	.	+	.	gene_id "NA-gene"; transcript_id "NA-gene"; gene_biotype "protein_coding"; gene_name "NA"; transcript_name "NA";
+NA	Genbank	exon	1	1458	.	+	.	gene_id "NA-gene"; transcript_id "NA-gene"; gene_biotype "protein_coding"; gene_name "NA"; transcript_name "NA"; exon_number 1;
+NP	Genbank	CDS	46	1542	.	+	0	gene_id "NP-gene"; transcript_id "NP-gene"; gene_biotype "protein_coding"; gene_name "NP"; transcript_name "NP";
+NP	Genbank	gene	46	1542	.	+	.	gene_id "NP-gene"; transcript_id "NP-gene"; gene_biotype "protein_coding"; gene_name "NP"; transcript_name "NP";
+NP	Genbank	exon	1	1565	.	+	.	gene_id "NP-gene"; transcript_id "NP-gene"; gene_biotype "protein_coding"; gene_name "NP"; transcript_name "NP"; exon_number 1;
+NS1	Genbank	gene	27	864	.	+	.	gene_id "NS1-gene"; transcript_id "NS1-gene"; gene_biotype "protein_coding";  gene_name "NS1"; transcript_name "NS1";
+NS1	Genbank	exon	1	890	.	+	.	gene_id "NS1-gene";   transcript_id "NS1-gene"; gene_biotype "protein_coding"; gene_name "NS1"; transcript_name "NS1"; exon_number 1;
+NS1	Genbank	CDS	27	56	.	+	0	gene_id "NS2-gene"; transcript_id "NS2-gene"; gene_biotype "protein_coding"; gene_name "NS2"; transcript_name "NS2";
+NS1	Genbank	CDS	529	864	.	+	0	gene_id "NS2-gene"; transcript_id "NS2-gene"; gene_biotype "protein_coding"; gene_name "NS2"; transcript_name "NS2";
+NS1	Genbank	CDS	27	686	.	+	0	gene_id "NS1-gene"; transcript_id "NS1-gene"; gene_biotype "protein_coding"; gene_name "NS1"; transcript_name "NS1";
+PA	Genbank	CDS	25	2175	.	+	0	gene_id "PA-gene"; transcript_id "PA-gene"; gene_biotype "protein_coding"; gene_name "PA"; transcript_name "PA";
+PA	Genbank	gene	25	2175	.	+	.	gene_id "PA-gene"; transcript_id "PA-gene"; gene_biotype "protein_coding"; gene_name "PA"; transcript_name "PA";
+PA	Genbank	exon	1	2233	.	+	.	gene_id "PA-gene";   transcript_id "PA-gene"; gene_biotype "protein_coding"; gene_name "PA"; transcript_name "PA"; exon_number 1;
+PB1	Genbank	CDS	25	2298	.	+	0	gene_id "PB1-gene";   transcript_id "PB1-gene"; gene_biotype "protein_coding"; gene_name "PB1"; transcript_name "PB1";
+PB1	Genbank	gene	25	2298	.	+	.	gene_id "PB1-gene";   transcript_id "PB1-gene"; gene_biotype "protein_coding"; gene_name "PB1"; transcript_name "PB1";
+PB1	Genbank	exon	1	2298	.	+	.	gene_id "PB1-gene";   transcript_id "PB1-gene"; gene_biotype "protein_coding"; gene_name "PB1"; transcript_name "PB1"; exon_number 1;
+PB1	Genbank	sequence_feature	119	391	.	+	.	 gene_id "PB1-F2-gene";   transcript_id "PB1-F2-gene"; gene_biotype "protein_coding"; gene_name "PB1-F2"; transcript_name "PB1-F2";
+PB2	Genbank	CDS	28	2307	.	+	0	gene_id "PB2-gene"; transcript_id "PB2-gene"; gene_biotype "protein_coding";  gene_name "PB2"; transcript_name "PB2";
+PB2	Genbank	gene	28	2307	.	+	.	gene_id "PB2-gene"; transcript_id "PB2-gene"; gene_biotype "protein_coding";  gene_name "PB2"; transcript_name "PB2";
+PB2	Genbank	exon	1	2341	.	+	.	gene_id "PB2-gene"; transcript_id "PB2-gene"; gene_biotype "protein_coding";  gene_name "PB2"; transcript_name "PB2"; exon_number 1;

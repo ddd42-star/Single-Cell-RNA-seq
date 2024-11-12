@@ -1,0 +1,1 @@
+All the fasq files obtained are not here because of their dimension (> 20 GB).
